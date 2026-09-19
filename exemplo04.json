@@ -1,0 +1,8 @@
+{
+    "turma": "T INF 2025/1 V2",
+    "alunos": [
+      { "nome": "Maria Silva", "nota": 8.5 },
+      { "nome": "João Souza", "nota": 7.2 }
+    ]
+  }
+  
